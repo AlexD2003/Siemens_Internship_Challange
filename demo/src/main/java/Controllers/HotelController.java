@@ -1,5 +1,6 @@
 package Controllers;
 import Domain.BookingRequest;
+import Domain.Feedback;
 import Domain.Hotel;
 import Domain.Room;
 import Repositories.HotelRepository;
